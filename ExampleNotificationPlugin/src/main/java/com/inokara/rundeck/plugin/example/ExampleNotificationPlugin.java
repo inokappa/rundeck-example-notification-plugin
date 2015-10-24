@@ -1,4 +1,4 @@
-package com.dtolabs.rundeck.plugin.example;
+package com.inokara.rundeck.plugin.example;
 
 import com.dtolabs.rundeck.plugins.notification.NotificationPlugin;
 import com.dtolabs.rundeck.core.plugins.Plugin;
